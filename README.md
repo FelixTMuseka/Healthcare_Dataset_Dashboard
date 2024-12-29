@@ -19,3 +19,7 @@ To analyse financial and medical trends of patients being admitted, including in
 ## Dashboard
 <a href="https://github.com/FelixTMuseka/Healthcare_Dataset_Dashboard/blob/main/healthcare_dataset_dashboard_1.png">View Dashboard 1</a>
 <a href="https://github.com/FelixTMuseka/Healthcare_Dataset_Dashboard/blob/main/healthcare_dataset_dashboard_%202.jpg">View Dashboard 2</a>
+## Process
+- Verified the data for any missing values
+- Created calculated fields, namely Proper name, Age Categories, Days of Admissions, 
+- Created tables in Tableau using different filters including Age Category
