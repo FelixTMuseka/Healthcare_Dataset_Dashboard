@@ -5,7 +5,7 @@ To analyse financial and medical trends of patients being admitted, including in
 ## Dataset used:
 - <a href="https://github.com/FelixTMuseka/Healthcare_Dataset_Dashboard/blob/main/healthcare_dataset.csv">Dataset</a>
 ## Questions(KPI)
-Compare the number of patients per insurance company
+- Compare the number of patients per insurance company
 - Which insurance company had the highest patients
 - Which insurance company had the most revenue
 - What was the admission trend through 2019 to 2024
